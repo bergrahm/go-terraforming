@@ -1,0 +1,2 @@
+# Terraform adventures
+Intead of provisioning my infrastructure like neanderthal I'd like to be able to spin up my environments on demand and kill them once I'm finished testing so I don't have to pay Jeff Bezos all my money or mouse-click through the AWS console every time.
